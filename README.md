@@ -1,2 +1,1 @@
-# catalogo-gotrix1
-catalogo gotix
+index-gotrix-paginas.html
